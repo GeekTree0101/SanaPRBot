@@ -2,15 +2,6 @@
   "object": {
     "pins": [
       {
-        "package": "Async",
-        "repositoryURL": "https://github.com/vapor/async.git",
-        "state": {
-          "branch": null,
-          "revision": "76ed7841b32dcc47168e8d9040ba03c024224d0c",
-          "version": "1.0.0-rc.1.1"
-        }
-      },
-      {
         "package": "Console",
         "repositoryURL": "https://github.com/vapor/console.git",
         "state": {
@@ -101,15 +92,6 @@
         }
       },
       {
-        "package": "Sockets",
-        "repositoryURL": "https://github.com/vapor/sockets.git",
-        "state": {
-          "branch": null,
-          "revision": "738f3ebf3ebb8ea886d5dd8588dd46a54f66af1c",
-          "version": "3.0.0-rc.1"
-        }
-      },
-      {
         "package": "SQL",
         "repositoryURL": "https://github.com/vapor/sql.git",
         "state": {
@@ -170,15 +152,6 @@
           "branch": null,
           "revision": "43b57b5861d5181b906ac6411d28645e980bb638",
           "version": "1.0.1"
-        }
-      },
-      {
-        "package": "TLS",
-        "repositoryURL": "https://github.com/vapor-community/tls.git",
-        "state": {
-          "branch": null,
-          "revision": "cfd8cc0f06841ee15469c5fc98131e47511f8e94",
-          "version": "3.0.0-rc.1.0.1"
         }
       },
       {
